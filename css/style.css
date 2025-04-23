@@ -60,6 +60,7 @@ button:focus {
     padding: 17px;
     text-align: right;
     word-break: break-all;
+    box-shadow: 0px 0px 0px 5px #00000022;
 }
 
 #valor-anterior{
